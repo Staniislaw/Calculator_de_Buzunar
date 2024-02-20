@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="texts.xsd" Version="4.22.1">
+  <Languages>
+    <Language Id="GB" />
+  </Languages>
+  <Texts>
+    <TextGroup Id="Group1">
+      <Text Id="__SingleUse_82HF" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">New Text</Translation>
+      </Text>
+    </TextGroup>
+    <TextGroup Id="Unsorted">
+      <Text Id="__SingleUse_ESWI" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">centrimetri/secunda</Translation>
+      </Text>
+      <Text Id="__SingleUse_SQ5F" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Km/Ore</Translation>
+      </Text>
+      <Text Id="__SingleUse_IXRD" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">metri/secunda</Translation>
+      </Text>
+      <Text Id="__SingleUse_KK0P" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Secunde</Translation>
+      </Text>
+      <Text Id="__SingleUse_YS8J" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">ani</Translation>
+      </Text>
+      <Text Id="__SingleUse_2218" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">saptamani</Translation>
+      </Text>
+      <Text Id="__SingleUse_3VRY" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">zile</Translation>
+      </Text>
+      <Text Id="__SingleUse_GC6O" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">ore</Translation>
+      </Text>
+      <Text Id="__SingleUse_U65O" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">minute</Translation>
+      </Text>
+      <Text Id="__SingleUse_I35M" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">miliSecunde</Translation>
+      </Text>
+      <Text Id="__SingleUse_V79H" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Gram</Translation>
+      </Text>
+      <Text Id="__SingleUse_AKBQ" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Tone</Translation>
+      </Text>
+      <Text Id="__SingleUse_NVB3" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">KiloGram</Translation>
+      </Text>
+      <Text Id="__SingleUse_PQD7" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Miligram</Translation>
+      </Text>
+      <Text Id="__SingleUse_V95X" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Centimetru</Translation>
+      </Text>
+      <Text Id="__SingleUse_N0WH" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Kilometru</Translation>
+      </Text>
+      <Text Id="__SingleUse_HKSF" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Metru</Translation>
+      </Text>
+      <Text Id="__SingleUse_UCQV" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Milimetru</Translation>
+      </Text>
+      <Text Id="__SingleUse_LRR9" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Centimetru</Translation>
+      </Text>
+      <Text Id="__SingleUse_AOSF" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Kilometru</Translation>
+      </Text>
+      <Text Id="__SingleUse_GQZ6" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Metru</Translation>
+      </Text>
+      <Text Id="__SingleUse_FFIG" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Milimetru</Translation>
+      </Text>
+      <Text Id="__SingleUse_F2QF" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">0</Translation>
+      </Text>
+      <Text Id="__SingleUse_BUQ3" Alignment="Left" TypographyId="Display">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_N9T6" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">0</Translation>
+      </Text>
+      <Text Id="__SingleUse_CNVE" Alignment="Left" TypographyId="Display">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_A4LQ" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Alege</Translation>
+      </Text>
+      <Text Id="__SingleUse_F1YA" Alignment="Left" TypographyId="Display">
+        <Translation Language="GB"> &lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_RM6S" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Alege</Translation>
+      </Text>
+      <Text Id="__SingleUse_STEH" Alignment="Left" TypographyId="Display">
+        <Translation Language="GB"> &lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_HWS8" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">X</Translation>
+      </Text>
+      <Text Id="__SingleUse_9KZW" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Gram</Translation>
+      </Text>
+      <Text Id="__SingleUse_940V" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Tone</Translation>
+      </Text>
+      <Text Id="__SingleUse_RB8A" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">KiloGram</Translation>
+      </Text>
+      <Text Id="__SingleUse_HJCA" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Miligram</Translation>
+      </Text>
+      <Text Id="__SingleUse_TEXF" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">0</Translation>
+      </Text>
+      <Text Id="__SingleUse_1VZN" Alignment="Left" TypographyId="Display">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_NGJ9" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">0</Translation>
+      </Text>
+      <Text Id="__SingleUse_DV78" Alignment="Left" TypographyId="Display">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_M19B" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Alege</Translation>
+      </Text>
+      <Text Id="__SingleUse_THS5" Alignment="Left" TypographyId="Display">
+        <Translation Language="GB"> &lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_PQ82" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Alege</Translation>
+      </Text>
+      <Text Id="__SingleUse_7LK6" Alignment="Left" TypographyId="Display">
+        <Translation Language="GB"> &lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_VJR4" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">X</Translation>
+      </Text>
+      <Text Id="__SingleUse_4W6W" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">Hello</Translation>
+      </Text>
+      <Text Id="__SingleUse_VBJH" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Secunde</Translation>
+      </Text>
+      <Text Id="__SingleUse_9JJE" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">ani</Translation>
+      </Text>
+      <Text Id="__SingleUse_51GT" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">saptamani</Translation>
+      </Text>
+      <Text Id="__SingleUse_GQRV" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">zile</Translation>
+      </Text>
+      <Text Id="__SingleUse_K6KX" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">ore</Translation>
+      </Text>
+      <Text Id="__SingleUse_NQIW" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">minute</Translation>
+      </Text>
+      <Text Id="__SingleUse_RYTO" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">miliSecunde</Translation>
+      </Text>
+      <Text Id="__SingleUse_3UDS" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">X</Translation>
+      </Text>
+      <Text Id="__SingleUse_BZW1" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Alege</Translation>
+      </Text>
+      <Text Id="__SingleUse_RLCL" Alignment="Left" TypographyId="Display">
+        <Translation Language="GB"> &lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_VEV9" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Alege</Translation>
+      </Text>
+      <Text Id="__SingleUse_LNSK" Alignment="Left" TypographyId="Display">
+        <Translation Language="GB"> &lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_EMB7" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">0</Translation>
+      </Text>
+      <Text Id="__SingleUse_WDO0" Alignment="Left" TypographyId="Display">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_LSXG" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">0</Translation>
+      </Text>
+      <Text Id="__SingleUse_NBEB" Alignment="Left" TypographyId="Display">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_VQAF" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">X</Translation>
+      </Text>
+      <Text Id="__SingleUse_SZU7" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">X</Translation>
+      </Text>
+      <Text Id="__SingleUse_22RF" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Alege</Translation>
+      </Text>
+      <Text Id="__SingleUse_NR7X" Alignment="Left" TypographyId="Display">
+        <Translation Language="GB"> &lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_85WB" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Km/Ore</Translation>
+      </Text>
+      <Text Id="__SingleUse_D51O" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Alege</Translation>
+      </Text>
+      <Text Id="__SingleUse_WCYY" Alignment="Left" TypographyId="Display">
+        <Translation Language="GB"> &lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_QMFF" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">0</Translation>
+      </Text>
+      <Text Id="__SingleUse_RYJT" Alignment="Left" TypographyId="Display">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_I1CR" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">centrimetri/secunda</Translation>
+      </Text>
+      <Text Id="__SingleUse_OJXU" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">metri/secunda</Translation>
+      </Text>
+      <Text Id="__SingleUse_JRRJ" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">0</Translation>
+      </Text>
+      <Text Id="__SingleUse_4JP4" Alignment="Left" TypographyId="Display">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_5ELS" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">Lungime</Translation>
+      </Text>
+      <Text Id="__SingleUse_9TQW" Alignment="Left" TypographyId="Large">
+        <Translation Language="GB">Greutate</Translation>
+      </Text>
+      <Text Id="__SingleUse_V5WC" Alignment="Center" TypographyId="Large">
+        <Translation Language="GB">Timp</Translation>
+      </Text>
+      <Text Id="__SingleUse_MJM5" Alignment="Center" TypographyId="Large">
+        <Translation Language="GB">Viteza</Translation>
+      </Text>
+      <Text Id="__SingleUse_426U" Alignment="Center" TypographyId="Large">
+        <Translation Language="GB">Calculator</Translation>
+      </Text>
+      <Text Id="__SingleUse_MIK8" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">0</Translation>
+      </Text>
+      <Text Id="__SingleUse_2EBO" Alignment="Left" TypographyId="Display">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+    </TextGroup>
+  </Texts>
+  <Typographies>
+    <Typography Id="Default" Font="verdana.ttf" Size="20" Bpp="4" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Large" Font="verdana.ttf" Size="38" Bpp="4" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Small" Font="verdana.ttf" Size="10" Bpp="4" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Display" Font="ariblk.ttf" Size="20" Bpp="4" Direction="LTR" FallbackCharacter="?" WildcardCharacters="+-*/.,%" WildcardCharacterRanges="0-9,a-z,A-Z" />
+  </Typographies>
+</TextDatabase>
